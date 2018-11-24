@@ -1,19 +1,19 @@
 
 <table>
   <tr>
-    <td>
-      x
+    <td width="49%">
+      <img src="https://github.com/yahat/broadlink_mini_homeassistant_ir_codes_osram_rgb_light_bulb/blob/master/osram_rgb_lightbulb.JPG?raw=true" width="100%;">
     </td>
-    <td>
-# Broadlink Mini 3 & Home Assistant 
-# IR Codes For
-# Osram RGBW Light Bulb
+    <td width="49%">
+      <h1>
+      Broadlink Mini 3 & Home Assistant<br>
+      IR Codes For<br>
+      Osram RGBW Light Bulb<br>
+      </h1>
     </td>
   </tr>
 </table>
 
-
-![Osram RGB Light Bulb](https://github.com/yahat/broadlink_mini_homeassistant_ir_codes_osram_rgb_light_bulb/blob/master/osram_rgb_lightbulb.JPG?raw=true)
 
 |Button|Code|
 |--|--|
