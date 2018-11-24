@@ -31,8 +31,16 @@
 |smooth|JgBgAAABKJUSExIUERQRFBITEhQQFREUEjgROBI4ETgSOBA5EjgROBI4ETgSOBEUETgSFBEUEhMSExIUERQQORITEjgSOBE4EQAFHwABKEsSAAxSAAEnTBEADFIAAShLEgANBQAAAAAAAAAA|
 |mode|JgBgAAABKJUSExEVERQRFBITEhQRFBEUETgSOBE4ETkROBI4ETgSOBE4EjgRFBE4EjgRFBITEhQRFBAVEjgQFRAVETgSOBE4EQAFIAABKEoSAAxRAAEpShIADFEAAShLEgANBQAAAAAAAAAA|
 
-Colors, from top-left to bottom-right, in order:
-
+<table>
+  <tr>
+    <td>
+      Colors, from top-left to bottom-right, in order:
+    </td>
+    <td>
+      <img src="https://github.com/yahat/broadlink_mini_homeassistant_ir_codes_osram_rgbw_light_bulb/blob/master/colors.JPG?raw=true">
+    </td>
+  </tr>
+</table>
 
 |Button|Code|
 |--|--|
