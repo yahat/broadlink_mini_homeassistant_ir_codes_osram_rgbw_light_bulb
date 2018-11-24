@@ -2,3 +2,7 @@
 
 
 ![Osram RGB Light Bulb](https://github.com/yahat/broadlink_mini_homeassistant_ir_codes_osram_rgb_light_bulb/blob/master/osram_rgb_lightbulb.JPG?raw=true)
+
+|Button|Code|
+|--|--|
+|Red|JgBYAAABKZURFBITEhQRFBEUERQRFREUEDkRORE4EjgROBI4ETgSOBEUEhMSFBE4EhMSFBEUERQSOBE4EjgRFBE4ETkROBI4EQAFIgABKEsRAAxUAAEpShIADQU=|
